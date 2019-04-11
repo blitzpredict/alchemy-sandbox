@@ -1,0 +1,22 @@
+{
+  "root": true,
+  "indent": {
+    "value": "    "
+  },
+  "lineBreak": {
+    "before": {
+      "ObjectPatternClosingBrace": 1,
+      "FunctionDeclaration" : 2
+    },
+    "after": {
+        "ObjectPatternOpeningBrace": 1,
+        "ObjectPatternComma": 1,
+        "ArrayPatternOpening": 1,
+        "ArrayPatternComma": 1
+    }
+  },
+  "quotes": {
+      "type": "double",
+      "avoidEscape": true
+  }
+}
